@@ -1,0 +1,2 @@
+httpx==0.28.1
+colorama==0.4.6

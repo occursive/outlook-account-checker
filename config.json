@@ -1,0 +1,4 @@
+{
+    "proxy_type": "http",
+    "max_proxy_retries": 10
+}
