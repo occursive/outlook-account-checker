@@ -18,8 +18,8 @@
 </p>
 </div>
 
-## ✨ Try for Free
-### 🎯 Key Highlights
+## 🔓 Free Version
+✨ **Features:**
 - **Fully request-based**
 - **High-performance multi-threading**
 - **Memory optimized**
@@ -27,12 +27,14 @@
 - **Organized results**
 - **99.9% accurate account detection**
 
-## 💎 Premium Access
-### 💼 Licensing Options
+## 💎 Premium Version
+💼 **Licensing Options:**
 - **1-Day Access Key - $15**
 - **1-Month Access Key - $80**
 - **Full Source Code - $250**
-### 🎯 Key Highlights
+- **Free release at 150 ⭐️ stars**
+
+✨ **Features:**
 - **All free features included**
 - **Recordnotice bypass logic**
 - **Smart inbox filtering with custom domain setup**
@@ -61,6 +63,8 @@
 └── 📄 VALID_pendingSecurity.txt
 ```
 
+## ✨ Stars to unlock
+- ⭐️ **150 stars: Premium version will be released for free**
 
 ## ⚠️ Disclaimer
 > [!WARNING]
