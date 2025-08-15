@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/k6QCQwZF/logo.png" width="100"/> 
+  <img src="https://github.com/user-attachments/assets/640329d0-2dc3-4a6a-9679-248d79f84a5f" width="100"/> 
 </div>
+
 
 
 <div align="center">
@@ -11,10 +12,16 @@
 
 <div align="center"> 
   
-![showcase](https://github.com/user-attachments/assets/15d18d3a-6d4b-4473-b51c-f812585b779d)
+![showcase](https://github.com/user-attachments/assets/9226c340-5d5e-45fa-b731-bfdd7b09830e)
+
 <p align="center">
-  
-[![Direct Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/occursive)
+  <br />
+  <a href="https://discord.gg/wbjvnzVhrd"><img src="https://img.shields.io/badge/Discord%20Server-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
+  <br />
+  <br />
+  <a href="https://t.me/occursive"><img src="https://img.shields.io/badge/Developer-@occursive-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Developer" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/occursivenews"><img src="https://img.shields.io/badge/📢%20News-@occursivenews-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram News" /></a>
 </p>
 </div>
 
@@ -76,4 +83,14 @@
 
 ```
 Telegram: https://t.me/occursive
+
+Discord: @occursive
 ```
+
+---
+
+<div align="center">
+  
+  **⭐ Star this repository if you find it useful!**
+  
+</div>
