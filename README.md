@@ -28,25 +28,28 @@
 ## 🔓 Free Version
 ✨ **Features:**
 - **Fully request-based**
-- **High-performance multi-threading**
 - **Memory optimized**
 - **Multi-protocol proxy rotation**
 - **Organized results**
 - **99.9% accurate account detection**
+
+> [!NOTE]
+> The <ins>🔓 **Free Version**</ins> is outdated and currently does not work. The <ins>💎 **Premium Version**</ins> uses a different API, offers advanced features, and is actively maintained and up to date. **Read more below.**
 
 ## 💎 Premium Version
 💼 **Licensing Options:**
 - **1-Day Access Key - $15**
 - **1-Month Access Key - $80**
 - **Full Source Code - $250**
-- **Free release at 150 ⭐️ stars**
 
 ✨ **Features:**
 - **All free features included**
+- **Optimized for <ins>maximum speed</ins>**
 - **Recordnotice bypass logic**
-- **Smart inbox filtering with custom domain setup**
-- **IMAP activation via Thunderbird Mobile API**
-
+- **Advanced multi-threading (up to <ins>500 threads</ins>)**
+- **Smart <ins>inbox filtering</ins> by domain or keyword**
+- **Built on OWA for robust, high‑performance operation**
+- <ins>**DM me for more information**</ins>
 
 ## ✍️ Usage
 1. **Run** `pip install -r requirements.txt`
